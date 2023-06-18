@@ -1,6 +1,6 @@
 # AtomicGrabber
-grabs discord info and roblox cookies 
+grabs discord info and roblox cookies and a lot more!
 
 
 
-credits to 97kJason#5499 and the coding team!
+credits to 97kJason and the coding team!
